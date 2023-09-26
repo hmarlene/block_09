@@ -1,0 +1,17 @@
+@media (max-width: 615px) {
+    .nav-header {
+        flex-direction: column;
+        height: 100%;
+    }
+
+    .nav-header > .left-navbar {
+        order: 1;
+
+    }
+
+    .nav-header > .right-navbar {
+        order: 2;
+
+    }
+
+}

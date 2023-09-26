@@ -1,0 +1,16 @@
+.about-me-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.about-me-wrapper > .about-content {
+    width: 1000px;
+}
+
+
+
+.about-me-wrapper img {
+    float: left;
+    width: 200px;
+    padding: 15px;
+}
